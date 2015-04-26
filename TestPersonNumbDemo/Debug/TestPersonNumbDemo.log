@@ -1,0 +1,26 @@
+﻿生成启动时间为 2015/4/22 9:03:21。
+     1>项目“D:\VS2012\Projects\TestPersonNumbDemo\TestPersonNumbDemo\TestPersonNumbDemo.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I../include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\TestPersonNumbDemo.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt TestPersonNumbDemo.cpp TestPersonNumbDemoDlg.cpp
+         TestPersonNumbDemo.cpp
+     1>d:\vs2012\projects\testpersonnumbdemo\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+         正在生成代码...
+         正在编译...
+         TestPersonNumbDemoDlg.cpp
+     1>d:\vs2012\projects\testpersonnumbdemo\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VS2012\Projects\TestPersonNumbDemo\Debug\TestPersonNumbDemo.exe" /INCREMENTAL /NOLOGO /LIBPATH:../lib opencv_calib3d246d.lib opencv_contrib246d.lib opencv_core246d.lib opencv_features2d246d.lib opencv_flann246d.lib opencv_gpu246d.lib opencv_haartraining_engined.lib opencv_highgui246d.lib opencv_imgproc246d.lib opencv_legacy246d.lib opencv_ml246d.lib opencv_nonfree246d.lib opencv_objdetect246d.lib opencv_ocl246d.lib opencv_photo246d.lib opencv_stitching246d.lib opencv_superres246d.lib opencv_ts246d.lib opencv_video246d.lib opencv_videostab246d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\VS2012\Projects\TestPersonNumbDemo\Debug\TestPersonNumbDemo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VS2012\Projects\TestPersonNumbDemo\Debug\TestPersonNumbDemo.lib" /MACHINE:X86 Debug\TestPersonNumbDemo.res
+         Debug\CvvImage.obj
+         Debug\PersonNum.obj
+         Debug\stdafx.obj
+         Debug\TestPersonNumbDemo.obj
+         Debug\TestPersonNumbDemoDlg.obj
+         TestPersonNumbDemo.vcxproj -> D:\VS2012\Projects\TestPersonNumbDemo\Debug\TestPersonNumbDemo.exe
+     1>已完成生成项目“D:\VS2012\Projects\TestPersonNumbDemo\TestPersonNumbDemo\TestPersonNumbDemo.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.78
